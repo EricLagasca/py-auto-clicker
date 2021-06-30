@@ -34,7 +34,7 @@ class ClickMouse(threading.Thread):
 
 
 mouse = Controller()
-click_mouse = ClickMouse(Button.left, 0.5)
+click_mouse = ClickMouse(Button.left, 0.01)
 click_mouse.start()
 
 
