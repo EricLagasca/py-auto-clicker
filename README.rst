@@ -1,0 +1,1 @@
+Just an auto clicker made with Python using pynput
